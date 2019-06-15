@@ -16,6 +16,7 @@ export class AppComponent {
   colors = [
     { id: 1, name: 'Green' },
     { id: 2, name: 'Blue'},
-    { id: 3, name: 'Orange'}
-  ]
-}
+    { id: 3, name: 'Orange'},
+    ]
+    defaultColor = 1;
+  }
